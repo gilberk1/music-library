@@ -13,3 +13,7 @@ PHP, HTML, CSS, SQL
 ## Not hosted
 
 There is no live demo. Anyone can upload songs and artwork to this library, which creates liability risks, so it is shared as source code only.
+
+## Status
+
+Archived student project. Not set up to run today; shared as a record of the work.
